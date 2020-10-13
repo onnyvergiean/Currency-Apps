@@ -23,3 +23,13 @@ public string usdToIdr(string nominal)
             return Convert.ToString(result);
         }
 ```
+
+## latihan
+Mengapa perlu membuat class `CurrencyController.cs` pada percobaan 4 ?
+* Karena class `CurrencyController.cs` digunakan untuk mengkonversi mata uang dari IDR ke USD dan membatasi/memfilter pattern/kode tertentu menggunakan `Regex`
+
+Jelaskan kegunaan method `isAllowed` pada percobaan 4! 
+* Kegunaan method `isAllowed` yaitu dipergunakan untuk mengijinkan pattern/kalimat tertentu yang tidak sama dengan pattern di dalam `Regex`
+
+Jelaskan secara singkat mengenai `Regex` pada percobaan 4!
+* Kegunaan `Regex` yaitu untuk mendeklrasaikan pattern tertentu dalam sebuah teks data dan bisa digunakan untuk memodifikasi, searching, memodifikasi dan membatasi suatu teks data
