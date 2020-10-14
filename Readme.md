@@ -33,3 +33,7 @@ Jelaskan kegunaan method `isAllowed` pada percobaan 4!
 
 Jelaskan secara singkat mengenai `Regex` pada percobaan 4!
 * Kegunaan `Regex` yaitu untuk mendeklrasaikan pattern tertentu dalam sebuah teks data dan bisa digunakan untuk memodifikasi, searching, memodifikasi dan membatasi suatu teks data
+
+Class Diagram 
+
+ ![Screenshot 3](Screenshot_3.png) 
